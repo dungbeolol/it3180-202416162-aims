@@ -1,6 +1,6 @@
 from aims.dvd import DigitalVideoDisc
 from aims.cart import Cart
-
+from aims.search import search_by_title
 
 def main():
     print("AIMS-mini v1.0.0")
